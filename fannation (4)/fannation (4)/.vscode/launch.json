@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FanNationApplication<fannation>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.fannation.FanNationApplication",
+            "projectName": "fannation",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
